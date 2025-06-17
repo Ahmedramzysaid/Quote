@@ -1,0 +1,14 @@
+
+.title{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 5rem;
+    color: black;
+}
+.btn-hover:hover {
+    color: white;
+    transform: scale(1.05);
+    transition: all 0.5s ease;
+}
+.quotes{
+    font-family:'Times New Roman', Times, serif;
+}
